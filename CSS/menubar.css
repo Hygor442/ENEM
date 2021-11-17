@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;700&family=Roboto:wght@100&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background: #5CD6E1;
+}
+.menucentral{
+    background-color: #0145FE;
+    margin: 2rem;
+    width: 50%;
+    height: 50%;
+    padding: 2rem;
+    border-radius: 10px;
+}
+.menucentral picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menucentral img{
+    width: 250px;
+}
+.menucentral h1{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;;
+    padding-bottom: 1rem;
+    color: white;
+}
+.menucentral ul{
+    list-style: none;
+}
+.menucentral ul li{
+    line-height: 40px;
+    border-bottom: 1px solid white;
+    font-family: 'Quicksand', sans-serif;;
+}
+.menucentral li{
+    line-height: 40px;
+}
+.menucentral ul li a{
+    display: block;
+
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 30px;
+    font-weight: bold;
+}
+.menucentral ul li a:hover{
+    background-color: red;
+    transition: 0.5s;
+}
+.menucentral ul ul li a{
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 60px;
+    background-color: #516CE1;
+}
+.menucentral ul li i{
+    padding-right: 10px;
+}
