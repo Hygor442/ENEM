@@ -74,7 +74,8 @@ body{
     .menucentral .img{
         width: 150px;
     }
-    .menucentral ul li{
+    .menucentral ul li a{
         text-align: center;
     }
+
 }
