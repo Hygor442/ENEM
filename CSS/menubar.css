@@ -66,3 +66,14 @@ body{
 .menucentral ul li i{
     padding-right: 10px;
 }
+@media (max-width:952px){
+    .menucentral{
+        width: 100%;
+    }
+    .menucentral .img{
+        width: 150px;
+    }
+    .menucentral ul li{
+        text-align: center;
+    }
+}
