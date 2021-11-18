@@ -66,6 +66,7 @@ body{
 .menucentral ul li i{
     padding-right: 10px;
 }
+/*RESPONSIVIDADE -> para ser compativel com a tela do celular*/ 
 @media (max-width:952px){
     .menucentral{
         width: 100%;
