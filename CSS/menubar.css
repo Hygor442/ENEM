@@ -35,9 +35,11 @@ body{
     list-style: none;
 }
 .menucentral ul li{
+    color: white;
     line-height: 40px;
     border-bottom: 1px solid white;
     font-family: 'Quicksand', sans-serif;;
+    font-weight: bold;
 }
 .menucentral li{
     line-height: 40px;
