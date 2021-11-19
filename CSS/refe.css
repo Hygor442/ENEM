@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #5CD6E1;
+}
+.main{
+    background-color: #0145FE;
+    color: white;
+    font-family: 'Roboto', sans-serif;;
+    margin: 1rem auto;
+    width: 50%;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.main h1{
+    padding: 1rem;
+    text-align: center;
+}
+.main h2{
+    padding-left: 1rem;
+    margin: 1rem;
+}
+.main ul{
+    padding: 0 2rem 0 2rem;
+}
+.main ul li{
+    line-height: 1.5rem;
+}
+a{
+    font-size: 2.5rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}

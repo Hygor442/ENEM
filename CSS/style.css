@@ -47,7 +47,7 @@ p{
         text-align: center;
         margin-bottom: 1rem;
         color: var(--cor-da-letras);
-    }
+    }    
 /*MENU*/
 .menu ul {
     list-style-type: none;
@@ -113,6 +113,8 @@ p{
     }
     main p{
         margin-bottom: 1rem;
+        font-size: 18px;
+        font-weight: bold;
     }
     section i{
         padding-right: 1rem;
